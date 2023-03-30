@@ -1,0 +1,7 @@
+student Id, Student name,Student college, Student email, Student status, DSA Final Score, WebD Final Score, React Final Score, Interview date, Interview company, Interview result
+642529a418a922ec71778e6d,Amit Yadav,GVM,amit@xyz.com,Not placed,90,85,80,2023-03-31,Capgemini,On Hold
+642529a418a922ec71778e6d,Amit Yadav,GVM,amit@xyz.com,Not placed,90,85,80,2023-04-15,tcs,Didn't attempt
+642529c518a922ec71778e72,Avinash,gvm,avinash@xyz.com,Not placed,78,66,86,2023-03-31,Capgemini,FAIL
+642529c518a922ec71778e72,Avinash,gvm,avinash@xyz.com,Not placed,78,66,86,2023-03-25,wipro,PASS
+642529e218a922ec71778e78,Rishi,rt,rishi@xyz.com,Not placed,56,78,97,2023-03-31,Capgemini,PASS
+642529e218a922ec71778e78,Rishi,rt,rishi@xyz.com,Not placed,56,78,97,2023-04-15,tcs,PASS
