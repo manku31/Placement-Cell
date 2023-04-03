@@ -4,7 +4,8 @@
   "description": "Placement Cell Web Application Which Manages Placement Interviews of Students.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build" : "echo sucess"
   },
   "author": "Prashant Singh",
   "license": "ISC",
